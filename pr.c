@@ -6,6 +6,7 @@ scanf("%d",&n);
 while(i<=n)
 {
 s=s+i;
+  printf("%d",s);
 i++;
 }
 return 0;
